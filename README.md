@@ -1,5 +1,7 @@
 # Verti
 Fully responsive website created on bootcamp Coders Lab.
-[strona.jpg]
+
+![Verti](verti.png)
+
 
 Technologies and tools: HTML, CSS, Gulp, Sass
